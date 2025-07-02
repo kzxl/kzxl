@@ -10,7 +10,7 @@
 - 🔧 Hiện đang phát triển các hệ thống quản lý nội bộ bằng WinForms + SQL Server  
 - 💡 Ưu tiên tối ưu hóa truy vấn, giảm tải cho server
 - 🚀 Hướng tới chuyển đổi hệ thống sang đa nền tảng (API, Web, Mobile)
-- 📫 Liên hệ: [phongvo@example.com](mailto:phongvo@example.com)
+- 📫 Liên hệ: [kazer.vj@gmail.com](mailto:kazer.vj@gmail.com)
 
 ---
 
@@ -35,16 +35,8 @@
 
 ---
 
-## ✨ Dự án nổi bật
-
-- [📦 Quản lý kho Next.js + PHP API](https://github.com/yourrepo/kho-nextjs)
-- [🧾 Hệ thống báo cáo WinForms + DevExpress](https://github.com/yourrepo/winforms-report)
-
----
-
 ## 🤝 Kết nối
 
-<p>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:phongvo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p>  
+  <a href="mailto:kazer.vj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
