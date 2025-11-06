@@ -1,18 +1,7 @@
-<h1 align="center">👋 Xin chào, mình là Phong Võ</h1>
+<h1 align="center">👋 Hello</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Developer+Yêu+C%23%2C+Node.js%2C+PHP;Tối+ưu+WinForms%2C+SQL%2C+MongoDB;Next.js%2C+Vite%2C+Ant+Design%2C+DevExpress" alt="Typing SVG" />
 </p>
-
----
-
-## 👨‍💻 Về mình
-
-- 🔧 Hiện đang phát triển hệ thống quản lý đa nền tảng (WinForms, Web, API)
-- ⚡ Ưu tiên tối ưu hóa code, giảm tải DB, tăng tốc độ phản hồi
-- 🔁 Làm việc với kiến trúc kết hợp: `.NET`, `Node.js`, `PHP`, `SQL Server`, `MongoDB`
-- 📫 Liên hệ: [kazer.vj@gmail.com](mailto:kazer.vj@gmail.com)
-
----
 
 ## 🧰 Công nghệ sử dụng
 
