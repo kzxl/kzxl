@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Developer+Yêu+C%23%2C+Node.js%2C+PHP;Tối+ưu+WinForms%2C+SQL%2C+MongoDB;Next.js%2C+Vite%2C+Ant+Design%2C+DevExpress" alt="Typing SVG" />
 </p>
 
-## 🧰 Công nghệ sử dụng
+## 🧰 
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🤝 Kết nối
+## 🤝 Contact
 
 <p>  
   <a href="mailto:kazer.vj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
