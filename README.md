@@ -21,15 +21,13 @@
 
 ---
 
-## 🌌 Core Projects & Architectures
+## 🌌 Open Source Contributions
 
-Core Developer của các bộ khung kiến trúc và thư viện tối ưu hiệu suất:
+Core Developer của các thư viện mã nguồn mở:
 
-- 🪐 **[Universe Architecture]** - Kiến trúc Micro-Module (MDD) cắm-rút đa dịch vụ không Conflict (C#, React, PHP).
-- ⚡ **[LiteORM & LiteSql]** - Framework ORM siêu nhẹ tích hợp AsNoTracking & Tự Gen Code CLI.
-- 🐹 **[GoFlow & GoValidate]** - Concurrency Toolkit tối thượng trên Golang để tối ưu hoá Worker Pool.
-- 🔒 **[Source-Code Master Vendor]** - Nền tảng phân phối mã nguồn thương mại, phát hành License và Auto-Obfuscator.
-- 💎 **[MDS Modernization]** - Tái thiết kế toàn bộ UI/UX & BaseForm Architecture cho các hệ thống Desktop App (WinForms) khổng lồ.
+- ⚡ **[LiteORM & LiteSql]** - Framework ORM siêu nhẹ cho .NET và PHP, tích hợp AsNoTracking & CodeGen CLI.
+- 🐹 **[GoFlow & GoValidate]** - Concurrency Toolkit trên Golang chuyên xử lý Worker Pool & Data Validation.
+- 🛠️ **[NetTool & XTranslate]** - Bộ tiện ích Desktop đa năng phân tích Network Protocol và hỗ trợ dịch thuật Popup thông minh.
 
 ---
 
