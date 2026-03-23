@@ -21,15 +21,15 @@
 
 ---
 
-## 🌌 Featured Ecosystems & Architectures
+## 🌌 Core Projects & Architectures
 
-Tôi tự hào là cá nhân kiến tạo các Framework và System Architecture cốt lõi nhằm định hình hệ tư tưởng **Clean Code, Scalable & Security**:
+Core Developer của các bộ khung kiến trúc và thư viện tối ưu hiệu suất:
 
-- 🪐 **[Universe Architecture]** - Kiến trúc Module-Driven Development (MDD) cho phép cắm-rút (plug-n-play) hàng chục App (POS, HR, Medical) trên cùng một Core chung rỗng mà không bị Conflict.
-- ⚡ **[LiteORM & LiteSql]** - Engine ORM tốc độ cao tự tay phát triển đập tan sự cồng kềnh của công nghệ cũ. Tích hợp tính năng _AsNoTracking_, Snapshot State và tự động sinh code *Entities* qua CLI Tool. (Đa ngôn ngữ: C#, PHP)
-- 🔒 **[Source-Code Master Vendor]** - Nền tảng Master phân phối phần mềm thương mại. Cấp phát siêu tốc khóa bản quyền bằng Cryptography (HMAC JWT) và trang bị Engine **Obfuscator** tự động "Mã Hóa Siêu Tốc" chống rò rỉ mã nguồn IP.
-- 🐹 **[GoFlow & GoValidate]** - Bộ Toolkit Concurrency cực mạnh phân phối trên Golang. Hỗ trợ Typed Worker Pool, Future Pattern và Rate Limiter để tối ưu hóa Garbage Collector triệt để.
-- 💎 **[MDS / WinForms Modernization]** - Framework hồi sinh và thiết kế UI/UX xuất sắc cho hệ tầng Desktop App cổ điển lên chuẩn mực Glassmorphism / BaseForm thời đại mới.
+- 🪐 **[Universe Architecture]** - Kiến trúc Micro-Module (MDD) cắm-rút đa dịch vụ không Conflict (C#, React, PHP).
+- ⚡ **[LiteORM & LiteSql]** - Framework ORM siêu nhẹ tích hợp AsNoTracking & Tự Gen Code CLI.
+- 🐹 **[GoFlow & GoValidate]** - Concurrency Toolkit tối thượng trên Golang để tối ưu hoá Worker Pool.
+- 🔒 **[Source-Code Master Vendor]** - Nền tảng phân phối mã nguồn thương mại, phát hành License và Auto-Obfuscator.
+- 💎 **[MDS Modernization]** - Tái thiết kế toàn bộ UI/UX & BaseForm Architecture cho các hệ thống Desktop App (WinForms) khổng lồ.
 
 ---
 
