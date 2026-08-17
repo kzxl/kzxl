@@ -21,15 +21,6 @@
 
 ---
 
-## 🌌 Open Source Contributions
-
-Core Developer của các thư viện mã nguồn mở:
-
-- ⚡ **[LiteORM & LiteSql]** - Framework ORM siêu nhẹ cho .NET và PHP, tích hợp AsNoTracking & CodeGen CLI.
-- 🐹 **[GoFlow & GoValidate]** - Concurrency Toolkit trên Golang chuyên xử lý Worker Pool & Data Validation.
-- 🛠️ **[NetTool & XTranslate]** - Bộ tiện ích Desktop đa năng phân tích Network Protocol và hỗ trợ dịch thuật Popup thông minh.
-
----
 
 ## 📊 GitHub Stats
 
