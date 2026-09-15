@@ -10,7 +10,10 @@
 
 <p align="center">
   <a href="mailto:kazer.vj@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-kazer.vj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: kazer.vj@gmail.com" />
+    <img src="https://img.shields.io/badge/Email-kazer.vj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/kzxl_x">
+    <img src="https://img.shields.io/badge/Telegram-@kzxl__x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram: @kzxl_x" />
   </a>
 </p>
 
