@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm kzxl</h1>
 
 <p align="center">
-  Software engineer passionate about building high-performance desktop applications, enterprise tooling, and automation.
-</p>
-
-<p align="center">
   Feel free to reach out if you'd like to collaborate, exchange ideas, or need any assistance.
 </p>
 
