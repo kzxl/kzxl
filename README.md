@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I'm kzxl</h1>
 
 <p align="center">
+  Thanks for visiting my profile; I hope you find what you're looking for.
+</p>
+<p align="center">
   Feel free to reach out if you'd like to collaborate, exchange ideas, or need any assistance.
 </p>
 
